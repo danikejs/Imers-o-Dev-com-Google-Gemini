@@ -33,6 +33,7 @@ function pesquisar() {
                     <a href="#" target="_blank">${dado.titulo}</a>
                 </h2>
                 <p class="descricao-meta">${dado.descricao}</p>
+                <p class="descricao-meta">${dado.vmax}</p>
                 <a href=${dado.link} target="_blank">Mais informações</a>
             </div>
         `;
