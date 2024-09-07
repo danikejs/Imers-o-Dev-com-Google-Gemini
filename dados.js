@@ -3,7 +3,7 @@ let dados = [
     titulo: "Mitsubishi Lancer Evolution",
     descricao: "O Mitsubishi Lancer Evolution marcou época nos ralis, com sua tração integral e motor 2.0 turbo. Seu design agressivo e desempenho excepcional o tornaram um ícone entre os entusiastas de carros esportivos. O Lancer Evolution é famoso por sua agilidade e capacidade de acelerar rapidamente.",
     vmax: "Velocidade maxima: 250 km/h",
-    link: "https://www.youtube.com/watch/v=44e3xKQQh4g",
+    link: "https://pt.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution",
     tags: "carro esportivo rally turbo japonês performance",
      
   },
@@ -11,7 +11,7 @@ let dados = [
     titulo: "Ford Escort XR3",
     descricao: "O Ford Escort XR3 foi um dos esportivos mais populares do Brasil nos anos 90. Com seu design moderno e motor 2.0, ele era a escolha perfeita para quem buscava um carro divertido e com bom desempenho. O XR3 era conhecido por sua suspensão firme e direção precisa.",
     vmax: "Velocidade maxima: 205 km/h",
-    link: "https://www.youtube.com/watch/v=0BGuWrqyHig",
+    link: "https://pt.wikipedia.org/wiki/Ford_Escort_(Brasil)",
     tags: "carro esportivo 90 brasilpopular",
     
   },
@@ -19,14 +19,14 @@ let dados = [
     titulo: "Mercedes-Benz Classe E",
     descricao: "A Mercedes-Benz Classe E dos anos 90 era sinônimo de luxo e conforto. Seu interior sofisticado e motor potente proporcionavam uma experiência de condução única. A Classe E era a escolha ideal para quem buscava um carro elegante e confiável.",
     vmax: "Velocidade maxima: 200 km/h",
-    link: "https://www.youtube.com/watch/v=ObK1uTZIcZI",
+    link: "https://pt.wikipedia.org/wiki/Mercedes-Benz_Classe_E",
     tags: "luxo alemão anos 90"
   },
   {
     titulo: "Chevrolet Kadett GL 2.0",
     descricao: "O Chevrolet Kadett GL 2.0 era um dos sedãs mais populares do Brasil nos anos 90. Com seu design clássico e motor 2.0, ele oferecia um bom equilíbrio entre conforto e desempenho. O Kadett GL era conhecido por sua durabilidade e baixo custo de manutenção.",
     vmax: "Velocidade maxima: 500 km/h♥",
-    link: "https://www.youtube.com/org.br/v=-N3BRoYms&t=114s",
+    link: "https://pt.wikipedia.org/wiki/Chevrolet_Kadett",
     tags: "sedan popular brasil anos 90",
   }
 ];
