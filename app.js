@@ -33,7 +33,18 @@ function pesquisar() {
                     <a href="#" target="_blank">${dado.titulo}</a>
                 </h2>
                 <p class="descricao-meta">${dado.descricao}</p>
-                <p class="descricao-meta"><strong>${dado.vmax}</strong></p>
+                <hr>
+                <ol>
+                    <p class="descricao-meta">Ficha tecnica</p>
+                    <ul >
+                    <li><strong>Velocidade máxima:</strong> ${dado.vmax}</li>
+                    <li><strong>Motor:</strong> ${dado.motor}</li>
+                    <li><strong>Câmbio:</strong> ${dado.cambio}</li>
+                    </ul>
+                </ol>
+                <hr>
+                <p class="descricao-meta">${dado.curiosidades}</p>
+                <br>
                 <a href=${dado.link} target="_blank">Mais informações</a>
             </div>
         `;
