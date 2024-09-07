@@ -36,8 +36,8 @@ function pesquisar() {
                 <hr>
                 <ol>
                     <p class="descricao-meta"><strong>Ficha tecnica</strong></p>
-                    <ul >
-                    <li><strong>Velocidade máxima:</strong> ${dado.vmax}</li>
+                    <ul class="descricao-meta">
+                    <li ><strong>Velocidade máxima:</strong> ${dado.vmax}</li>
                     <li><strong>Motor:</strong> ${dado.motor}</li>
                     <li><strong>Câmbio:</strong> ${dado.cambio}</li>
                     </ul>
