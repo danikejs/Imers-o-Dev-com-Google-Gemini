@@ -35,7 +35,7 @@ function pesquisar() {
                 <p class="descricao-meta">${dado.descricao}</p>
                 <hr>
                 <ol>
-                    <p class="descricao-meta">Ficha tecnica</p>
+                    <p class="descricao-meta"><strong>Ficha tecnica</strong></p>
                     <ul >
                     <li><strong>Velocidade máxima:</strong> ${dado.vmax}</li>
                     <li><strong>Motor:</strong> ${dado.motor}</li>
