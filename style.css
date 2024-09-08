@@ -14,6 +14,13 @@ body {
     padding: 0; /* Remove o padding padrão */
 }
 
+img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 15px;
+  }     
+
+
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
@@ -111,6 +118,7 @@ footer {
     position: absolute; /* Posiciona o rodapé */
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
+    height: 75px;
 }
 
 @media (max-width: 768px) {

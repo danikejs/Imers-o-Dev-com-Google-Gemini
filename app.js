@@ -32,7 +32,9 @@ function pesquisar() {
                 <h2>
                     <a href="#" target="_blank">${dado.titulo}</a>
                 </h2>
-                <p class="descricao-meta">${dado.descricao}</p>
+                <img src="${dado.img}" alt="${dado.img}">
+                <br>
+                <p class="descricao-meta">${dado.descricao}</p>  
                 <hr>
                 <ol>
                     <p class="descricao-meta"><strong>Ficha tecnica</strong></p>
@@ -44,7 +46,6 @@ function pesquisar() {
                 </ol>
                 <hr>
                 <p class="descricao-meta">${dado.curiosidades}</p>
-                <br>
                 <a href=${dado.link} target="_blank">Mais informações</a>
             </div>
         `;
